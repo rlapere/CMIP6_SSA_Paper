@@ -1,3 +1,8 @@
+###########
+# Source function definitions for Figure 6
+# Lapere et al., 2022 - CMIP6 SSaer
+##########
+
 import numpy as np
 import math
 
