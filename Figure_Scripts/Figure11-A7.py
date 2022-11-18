@@ -1,6 +1,6 @@
 ########################
 # Remy Lapere (03/11/2022)
-# Figure 10 for Lapere et al., 2022 - CMIP6 SSaer
+# Figure 11 and A7 for Lapere et al., 2022 - CMIP6 SSaer
 ########################
 
 import pymannkendall as mk
