@@ -1,6 +1,6 @@
 # The representation of sea salt aerosols and their role in polar climate within CMIP6
 
-This repository contains the scripts to reproduce the figures and computations in *Lapere et al., 2023* - The representation of sea salt aerosols and their role in polar climate within CMIP6, PREPRINT DOI
+This repository contains the scripts to reproduce the figures and computations in *Lapere et al., 2023* - The representation of sea salt aerosols and their role in polar climate within CMIP6, PREPRINT 10.1002/essoar.10512918.1
 
 <p align="center">
   <img width="460" src="./Figure_Scripts/Figure11.jpeg">
