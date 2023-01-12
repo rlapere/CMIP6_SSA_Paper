@@ -25,7 +25,7 @@ import matplotlib.lines as lines
 plt.rcParams.update({'font.size': 14})
 warnings.filterwarnings('ignore')
 
-df_tot = pd.read_csv('../../../CMIP6/SSA_data_seasonal/total.csv',sep=',',index_col=False)
+df_tot = pd.read_csv('../data_obs_seasonal.csv',sep=',',index_col=False)
 
 stats = [['Alert',82.4991,-62.34152],['Bredkalen',63.85,15.33],['Irafoss',64.083,-21.016],['Karasjok',69.46,25.21],['Pallas',68,24.237],['Summit',72.58,-38.479],['Barrow',71.3230,-156.61],['Nord',81.6,-16.67],['Zeppelin',79,12],['Concordia',-75.09,123.33],['Ddu',-66.67,140],['Halley',-75.605,-26.21],['Neumayer',-70.666,-8.266],['Palmer',-64.77,-64.05]]
 
