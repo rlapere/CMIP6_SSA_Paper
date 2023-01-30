@@ -4,7 +4,7 @@ This repository contains the scripts to reproduce the figures and computations i
 
 The file *data_obs_seasonal.csv* contains the aggregated ground station measurements used to evaluate the models. Original data references can be found in the article manuscript.
 
-The sea salt aerosol optical depth product derived from MODIS and created for this publication is available on Zenodo at: []()
+The sea salt aerosol optical depth product derived from MODIS and created for this publication is available on Zenodo at: [https://doi.org/10.5281/zenodo.7584063](https://doi.org/10.5281/zenodo.7584063)
 
 <p align="center">
   <img width="460" src="./Figure_Scripts/Figure11.jpeg">
